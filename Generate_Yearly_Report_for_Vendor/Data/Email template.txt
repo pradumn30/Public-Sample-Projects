@@ -1,0 +1,6 @@
+Hi team,
+
+The robot has encountered an error at time {0}. Kindly refer the attached screenshot.
+
+Thanks & Regards,
+Pradumn Kumar

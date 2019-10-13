@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+986310,"IT Support",147512,29502.4,177014,USD,2017-01-16
+817512,"Concierge Services",1554,310.8,1864.8,EUR,2017-01-22
